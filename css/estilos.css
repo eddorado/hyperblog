@@ -3,3 +3,9 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#logo 
+{
+    width: 100px !important;
+    height: 100px !important;
+}
